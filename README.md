@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertdavila
-- 👀 I’m interested in becoming a healthcare data analyst 
+- 👀 I’m interested in healthcare data analytics, digital health product design, quality assurance and AI/ML
 - 🌱 I’m currently learning Pandas
-- 💞️ I’m looking to collaborate on creating a collective knowledge database for public health workers
+- 💞️ I’m looking to improve processes in healthcare utilizing information technology
 - 📫 How to reach me davila.robert@hotmail.com
 
 <!---
